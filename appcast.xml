@@ -6,6 +6,15 @@
     <description>Dictation updates</description>
     <language>en</language>
     <item>
+      <title>Dictation 1.2</title>
+      <pubDate>Fri, 30 Oct 2026 13:59:41 GMT</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Now an installer disk image: open it and drag Dictation to Applications. If macOS blocks it the first time, the picture on the disk shows what to click.]]></description>
+      <enclosure url="https://github.com/binjto-boop/dictation-releases/releases/download/v1.2/Dictation-1.2.dmg" type="application/octet-stream" sparkle:edSignature="YgQVUH0PKnG/ycno0Zb0zIj5flU2FJ7H1hrbT4YZiY5+wt0mF6G+UtArN+ePZMppeSM6kOMK0dqrLKbimTNIBA==" length="124932995"/>
+    </item>
+    <item>
       <title>Dictation 1.1</title>
       <pubDate>Fri, 30 Oct 2026 13:46:05 GMT</pubDate>
       <sparkle:version>13</sparkle:version>
