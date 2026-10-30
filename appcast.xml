@@ -5,5 +5,14 @@
     <link>https://raw.githubusercontent.com/binjto-boop/dictation-releases/main/appcast.xml</link>
     <description>Dictation updates</description>
     <language>en</language>
+    <item>
+      <title>Dictation 1.1</title>
+      <pubDate>Fri, 30 Oct 2026 13:46:05 GMT</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[First version you can install on any Apple Silicon Mac: it carries its own Python and downloads the speech model (3.9 GB) the first time it opens. Updates now arrive by themselves. New floating settings panel, history, replacements, one shortcut for tap or hold.]]></description>
+      <enclosure url="https://github.com/binjto-boop/dictation-releases/releases/download/v1.1/Dictation-1.1.zip" type="application/octet-stream" sparkle:edSignature="vWCpu9lzUL9Hrda9uCB0xxxWwKp4bdjX1sXZFDmUfW1TQM9XHXiDKjJLi2uspOrPD4vAbsdzo1qCIYUxLkKjAg==" length="127507960"/>
+    </item>
   </channel>
 </rss>
