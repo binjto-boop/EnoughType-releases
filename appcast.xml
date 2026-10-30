@@ -6,6 +6,15 @@
     <description>Dictation updates</description>
     <language>en</language>
     <item>
+      <title>Dictation 1.5</title>
+      <pubDate>Fri, 30 Oct 2026 14:58:05 GMT</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[The licences of everything Dictation uses are now inside the app (Settings, General, About) and on the website. Smaller download: the unused Tcl/Tk is gone.]]></description>
+      <enclosure url="https://github.com/binjto-boop/dictation-releases/releases/download/v1.5/Dictation-1.5.dmg" type="application/octet-stream" sparkle:edSignature="+tg9i6+J3JRlmcc6oLG5f3itAslwVohD6nm56bhPtifZ9TlI/WewXJFxjFNj/5f6GdtUe0J4ra9GKdUereOBDg==" length="122296932"/>
+    </item>
+    <item>
       <title>Dictation 1.4</title>
       <pubDate>Fri, 30 Oct 2026 14:42:32 GMT</pubDate>
       <sparkle:version>16</sparkle:version>
